@@ -1,8 +1,3 @@
-# 📘 01_intro_to_ai/what_is_ai.ipynb
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/janata-ai/learn-ai-basics/blob/main/01_intro_to_ai/what_is_ai.ipynb)
-
 """
 # 🤖 What is AI? | Janata AI
 
